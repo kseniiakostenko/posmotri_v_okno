@@ -238,7 +238,7 @@ font-size: 18px;
 .search-form__pseudo-checkbox::before {
   content: '';
   background-color: #FFF;
-  position: absolute;
+  /*position: absolute;*/
   display: inline-block;
   width: 16px;
   height: 16px;
