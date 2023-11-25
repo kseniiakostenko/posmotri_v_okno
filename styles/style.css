@@ -156,7 +156,7 @@ text-transform: uppercase;
 }
 
 .visually-hidden {
-  position: absolute;
+  position: fixed;
   inline-size: 1px;
   block-size: 1px;
   overflow: hidden;
