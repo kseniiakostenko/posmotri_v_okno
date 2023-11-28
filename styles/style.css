@@ -218,7 +218,7 @@ ol {
 .content__video-card-thumbnail {
   width: 180px;
   height: 103px;
-  object-fit: contain;
+  object-fit: cover;
   margin: 1px 0;
 }
 
